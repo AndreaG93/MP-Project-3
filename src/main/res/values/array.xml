@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="GameDifficultyChoice">
+        <item>@string/str_easy</item>
+        <item>@string/str_normal</item>
+        <item>@string/str_hard</item>
+        <item>@string/str_veryHard</item>
+    </string-array>
+
+    <string-array name="GameDifficultyChoiceValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>

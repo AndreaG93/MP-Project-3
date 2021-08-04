@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pac-Space</string>
+    <string name="str_audio">Impostazioni audio</string>
+    <string name="str_backToMainMenu">Menu</string>
+    <string name="str_difficulty">Difficoltà</string>
+    <string name="str_easy">Facile</string>
+    <string name="str_enableDisableAudio">Abilita audio</string>
+    <string name="str_exitWithoutSave"></string>
+    <string name="str_fruit">Frutta</string>
+    <string name="str_gameDifficultyChoice">Scegli la difficoltà di gioco</string>
+    <string name="str_gameOver">GAME OVER</string>
+    <string name="str_gameSetting">Impostazioni</string>
+    <string name="str_hard">Difficile</string>
+    <string name="str_insert_your_name">Inserisci il tuo nome</string>
+    <string name="str_message">Messaggio</string>
+    <string name="str_no">No</string>
+    <string name="str_noPlayer">Nessuno ha ancora giocato.</string>
+    <string name="str_normal">Normale</string>
+    <string name="str_ok">OK</string>
+    <string name="str_options">Opzioni</string>
+    <string name="str_pause">Pausa</string>
+    <string name="str_resultActivityTitle">Riepilogo</string>
+    <string name="str_resultHeaderRowName">Categoria</string>
+    <string name="str_resume">Riprendi</string>
+    <string name="str_retry">Riprova</string>
+    <string name="str_save">Salva</string>
+    <string name="str_scoreActivityTitle">Statistiche</string>
+    <string name="str_scoreHeaderPlayerName">Giocatore</string>
+    <string name="str_scoreHeaderScore">Punteggio</string>
+    <string name="str_setting">Impostazioni</string>
+    <string name="str_startGame">Nuova partita</string>
+    <string name="str_statistics">Statistiche</string>
+    <string name="str_time">Tempo</string>
+    <string name="str_totalScore">Punteggio totale:</string>
+    <string name="str_veryHard">Molto difficile</string>
+    <string name="str_yes">Si</string>
+    <string name="str_tapToStart">Tocca per iniziare</string>
+    <string name="str_normal_status">NORMALE</string>
+    <string name="str_invincible_status">INVINCIBILE</string>
+    <string name="str_enemy">Nemici</string>
+    <string name="str_newRecord">Nuovo Record!</string>
+</resources>

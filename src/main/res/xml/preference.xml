@@ -1,0 +1,21 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="@string/str_audio">
+        <CheckBoxPreference
+            android:key="EnableAudio"
+            android:title="@string/str_enableDisableAudio"
+            android:defaultValue="true"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/str_gameSetting">
+        <ListPreference
+            android:title="@string/str_gameDifficultyChoice"
+            android:key="chosenGameDifficulty"
+            android:entries="@array/GameDifficultyChoice"
+            android:entryValues="@array/GameDifficultyChoiceValues"
+            android:defaultValue="1"/>
+
+    </PreferenceCategory>
+</PreferenceScreen>
+

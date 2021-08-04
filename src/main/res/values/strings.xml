@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Pac-Space</string>
+
+    <string name="str_fruit">Fruit</string>
+    <string name="str_time">Time</string>
+    <string name="str_difficulty">Difficulty</string>
+
+    <string name="str_standardPlayer">RG Player</string>
+
+    <string name="str_tapToStart">Tap to start</string>
+
+
+    <string name="str_invincible_status">INVINCIBLE</string>
+    <string name="str_normal_status">NORMAL</string>
+
+    <string name="str_enemy">Enemies</string>
+
+    <!-- Difficulty -->
+    <string name="str_easy">Easy</string>
+    <string name="str_normal">Normal</string>
+    <string name="str_hard">Hard</string>
+    <string name="str_veryHard">Very Hard</string>
+
+    <string name="str_yes">Yes</string>
+    <string name="str_no">No</string>
+    <string name="str_ok">OK</string>
+
+    <string name="str_noPlayer">Nobody has played </string>
+
+    <string name="str_save">Save</string>
+    <string name="str_message">Message</string>
+    <string name="str_insert_your_name">Please insert your name.</string>
+
+    <!-- Main menu -->
+    <string name="str_startGame">Start Game</string>
+    <string name="str_setting">Setting</string>
+    <string name="str_statistics">Statistics</string>
+
+    <string name="str_gameOver">GAME OVER</string>
+    <string name="str_audio">Audio Settings</string>
+    <string name="str_enableDisableAudio">Enable audio</string>
+    <string name="str_gameDifficultyChoice">Choose game difficulty</string>
+    <string name="str_gameSetting">Game setting</string>
+    <string name="str_newRecord">New Record!</string>
+
+    <!-- Pause Dialog string -->
+    <string name="str_pause">Pause</string>
+    <string name="str_resume">Resume</string>
+    <string name="str_retry">Retry</string>
+    <string name="str_options">Options</string>
+    <string name="str_backToMainMenu">Main menu</string>
+
+    <!-- Activity title -->
+    <string name="str_resultActivityTitle">Summary Game</string>
+    <string name="str_scoreActivityTitle">Statistics</string>
+
+    <!-- Score Header -->
+    <string name="str_scoreHeaderPosition">#</string>
+    <string name="str_scoreHeaderPlayerName">Player</string>
+    <string name="str_scoreHeaderScore">Score</string>
+
+    <!-- Score Header -->
+    <string name="str_resultHeaderRowName">Category</string>
+    <string name="str_totalScore">Total Score:</string>
+
+</resources>
